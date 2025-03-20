@@ -1,0 +1,3 @@
+mvn exec:java -Dexec.mainClass="com.example.rocketmq.PushConsumerExample"
+
+mvn exec:java -Dexec.mainClass="com.example.rocketmq.ProducerExample"
